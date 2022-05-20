@@ -1,4 +1,4 @@
-<h1  align="center"> 좋아하면 누르는 </h1>
+<h1 align="center">좋아하면 누르는</h1>
 
 <h1 align="center" style="max-width: 100%;">
   <img width="1100" alt="Logo" src="README.assets/title.png" style="max-width: 100%;" /><br/>
@@ -17,14 +17,10 @@
   </tbody>
 </table>
 
-<<<<<<< HEAD
-
-=======
->>>>>>> upstream/develop
 <p align="center">
   <b>Supported</b><br/>
   <a href="#"><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" /></a>&nbsp;&nbsp;
-    <a href="#"><img width="45" src="README.assets/java.png" alt="java" /></a>&nbsp;&nbsp;
+    <a href="#"><img width="45" src="https://w7.pngwing.com/pngs/727/307/png-transparent-java-development-kit-operating-systems-android-macos-android-text-logo-computer-program.png" alt="java" /></a>&nbsp;&nbsp;
   <a href="#"><img width="45" src="https://perfectacle.github.io/2017/08/02/Spring-boot-study-001day/thumb.png" alt="springboot" /></a>&nbsp;&nbsp;
   <a href="#"><img width="45" src="https://t1.daumcdn.net/cfile/tistory/991A86475C91BE1D40" alt="jpa" /></a>&nbsp;&nbsp;
   <a href="#"><img width="45" src="https://media.vlpt.us/images/ec532/post/bc893d61-4eaa-4f8f-9b2c-e2d2143506a4/aws_ec2.svg" alt="EC2" /></a>&nbsp;&nbsp;
@@ -32,10 +28,8 @@
     <a href="#"><img width="45" src="https://perfectacle.github.io/2019/04/16/spring-boot-docker-image-optimization/thumb.png" alt="docker" /></a>&nbsp;&nbsp;
     <a href="#"><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" /></a>&nbsp;&nbsp;
     <a href="#"><img width="45" src="https://blog.kakaocdn.net/dn/rrEfB/btq97aMSAsX/lstil1pt0KJW0Iy2WPO0Mk/img.png" alt="nginx" /></a>&nbsp;&nbsp;
-  <a href="#"><img width="45" src="README.assets/mysql.png" alt="mysql" /></a>&nbsp;&nbsp;
-    <a href="#"><img width="45" src="README.assets/mongo.png" alt="mongo" />
-
-
+  <a href="#"><img width="45" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text.png" alt="mysql" /></a>&nbsp;&nbsp;
+    <a href="#"><img width="45" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="mongo" />
 ## 💁 개요
 
 ### 다운로드 및 실행
@@ -65,7 +59,6 @@
   이모지 변경, 유저 신고 등 부가적인 기능을 제공합니다
 </h3>
 
-
 <br>
 
 ## 💁 Release History
@@ -94,9 +87,9 @@
 | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
 |                                                             HTML5                                                              |                                                             CSS3                                                             |                                                           javascript                                                            |
 
-| <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React.js" width="50px" height="50px" /> | Stomp | TypeScript |
-| :-------------------------------------------------------------------------------------------------------------------------------: | :---: | :--------: |
-|                                                               React                                                               | Stomp | TypeScript |
+| <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React.js" width="50px" height="50px" /> | <img src="https://stomp.github.io/images/project-logo.png" alt="stomp" height="50px" /> | <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="typescript" width="50px" height="50px" /> |
+| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                               React                                                               |                                          Stomp                                          |                                                                  TypeScript                                                                   |
 
 ### 🚀 **Back-end**
 
@@ -168,43 +161,25 @@
   </td>
 </tr>
 </table>
-
-
-
 #### 🖥️ 주요 Stack
 
-|                        Content                         |           Main            |                          Detail                          |
-| :----------------------------------------------------: | :-----------------------: | :------------------------------------------------------: |
-|              [**하트송수신**](#음성인식)               | Python 3.9.6 / JavaScript |             webkitSpeechRecognition / Axios              |
-|                  [**채팅**](#드로잉)                   |        JavaScript         |                Canvas / Blob Data/ Axios                 |
-|                   [**위치 공유**]()                    |  HTML / CSS / JavaScript  |            Django 3.2.9 / HTML5 / CSS3 / ES6             |
-||||
-| [**Kubernetes**](#개요) |  Kubernetes 1.14.0  |            Kubernetes 1.14.0            |
-| [**파이프라인 구축**](#개요) |       Jenkins Pipeline       |                       Jenkins Pipeline                       |
-|                    [**CI/CD**](#개요)                    | Docker, Jenkins, Dockerhub, Kubernetes |                    Docker, Jenkins, Dockerhub, Kubernetes Rollout                    |
-|           [**Ingress Nginx**](#개요)           | Kubernetes ingress-nginx |      Nginx, Let's encrypt, Kubernetes ingress-nginx      |
-|                  [**배포**](#개요)   |            AWS            | EC2(Ubuntu Server 20.04 LTS) |
-||||
-|                              |                                        |                                                |
-|                              |                                        |                                                |
-|                              |                                        |                                                |
-|                              |                                        |                                                |
-|                              |                                        |                                                |
-| [**회원관리**](#back-end) | JWT / Spring Security | JWT / HS512 / Spring Security |
-| Android | Kotlin | Android Studio 4.1.1 / Web View |
+|       Content       |                  Main                  |                     Detail                     |
+| :-----------------: | :------------------------------------: | :--------------------------------------------: |
+|   **kubernetes**    |           Kubernetes 1.14.0            |               Kubernetes 1.14.0                |
+| **파이프라인 구축** |            Jenkins Pipeline            |                Jenkins Pipeline                |
+|      **CI/CD**      | Docker, Jenkins, Dockerhub, Kubernetes | Docker, Jenkins, Dockerhub, Kubernetes Rollout |
+|  **Ingress Nginx**  |        Kubernetes ingress-nginx        | Nginx, Let's encrypt, Kubernetes ingress-nginx |
+|      **배포**       |                  AWS                   |          EC2(Ubuntu Server 20.04 LTS)          |
 
 
-# ⚙️ Individual Tech Section
 
-## 🗳️ Section4, 이건희 - 쿠버네티스, 도커, 젠킨스를 활용한 배포와 CI/CD에 대하여
+# ⚙️ 쿠버네티스, 도커, 젠킨스를 활용한 배포와 CI/CD에 대하여
 
 ### `개요`
 
 > 높은 트래픽과 소켓 통신으로 인한 부하를 예상했다. 해당 트래픽과 부하를 Devops가 나 혼자인 우리 팀이 감당하기 위해 쿠버네티스를 도입했다.
 
 > 쿠버네티스 설계부터 CI/CD 적용까지, 처음이라 어려웠고, 자동화까지 완성했을 때는 그만큼 보람을 느꼈다.
-
-
 
 #### 쿠버네티스 도입 목적
 
@@ -229,14 +204,23 @@
 ##### 해당 DB는 PVC-PV 마운트하여 영구적으로 보관한다.
 
 ##### Desired State : 백엔드는 팟 10개 / 프론트엔드는  팟 7개로 설정하였다.
+- EC2서버 4개가 가용자원으로, 마스터 노드 1개와 워커 노드 3개로 구성한다.
 
-* Ingress-nginx를 적용하였고, Let's Encrypt를 통해 HTTPS를 적용하였다.
+- Mysql, Mongodb로 DB 이원화를 적용한다. (채팅의 Read속도 고려)
 
-* Jenkins Pipeline을 구축하여, 일련의 과정을 자동화한다.
+- 해당 DB는 PVC-PV 마운트하여 영구적으로 보관한다.
 
-  * Git의 변화를 감지하여 Code를 받아오고,
-  * 해당 코드로 Docker Image를 생성한다.
-  * 생성된 Docker Image를 Dockerhub에 Push한다.
-  * Kube와 연동하여 해당 Deployment를 Rollout한다.
+- Desired State : 백엔드는 팟 10개 / 프론트엔드는 팟 7개로 설정하였다.
+- Ingress-nginx를 적용하였고, Let's Encrypt를 통해 HTTPS를 적용하였다.
+
+- Jenkins Pipeline을 구축하여, 일련의 과정을 자동화한다.
+
+  - Git의 변화를 감지하여 Code를 받아오고,
+  - 해당 코드로 Docker Image를 생성한다.
+  - 생성된 Docker Image를 Dockerhub에 Push한다.
+  - Kube와 연동하여 해당 Deployment를 Rollout한다.
 
 * Mattermost와 연동하여 빌드 현황과 로그를 공유한다.
+
+![스크린샷 2022-05-20 오전 11.02.28](README.assets/mattermost.png)
+
