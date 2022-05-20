@@ -16,7 +16,6 @@
     </tr>
   </tbody>
 </table>
-
 <p align="center">
   <b>Supported</b><br/>
   <a href="#"><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" /></a>&nbsp;&nbsp;
@@ -30,6 +29,9 @@
     <a href="#"><img width="45" src="https://blog.kakaocdn.net/dn/rrEfB/btq97aMSAsX/lstil1pt0KJW0Iy2WPO0Mk/img.png" alt="nginx" /></a>&nbsp;&nbsp;
   <a href="#"><img width="45" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text.png" alt="mysql" /></a>&nbsp;&nbsp;
     <a href="#"><img width="45" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="mongo" />
+
+
+
 ## 💁 개요
 
 ### 다운로드 및 실행
@@ -72,12 +74,10 @@
 <h3 align="center">
   22.05.13 - Web 2차 배포</h3>  <h5  align="center">안내 템플릿 <br> 건의함 <br> 위치 엑세스 허용 안내 <br> 이모지 변경 <br></h5>
 <h3 align="center">
-  22.05.06 - Web 최초 배포</h3>
+  22.05.06 - Web MVP 최초 배포</h3>
  <h5  align="center"> 사용자간 위치 공유 <br> 하트 송수신 <br> 채팅 <br> 유저 신고 <br></h5>
 
-## 🛠 아키텍처
 
-![Lovepush_Architecture](README.assets/Lovepush_Architecture.jpg)
 
 ## 🛠 기술 스택
 
@@ -144,7 +144,7 @@
   </td>
   <td valign="top" width="50%">
     <a href="https://github.com/Gkuer">
-      <img src="README.assets/gkuer.png" align="left" style="width: 98%" />
+      <img src="README.assets/gkuer.PNG" align="left" style="width: 98%" />
     </a>
   </td>
   </tr>
@@ -161,6 +161,7 @@
   </td>
 </tr>
 </table>
+
 #### 🖥️ 주요 Stack
 
 |       Content       |                  Main                  |                     Detail                     |
