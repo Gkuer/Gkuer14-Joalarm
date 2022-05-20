@@ -16,6 +16,10 @@
     </tr>
   </tbody>
 </table>
+
+
+<br>
+
 <p align="center">
   <b>Supported</b><br/>
   <a href="#"><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" /></a>&nbsp;&nbsp;
@@ -29,6 +33,8 @@
     <a href="#"><img width="45" src="https://blog.kakaocdn.net/dn/rrEfB/btq97aMSAsX/lstil1pt0KJW0Iy2WPO0Mk/img.png" alt="nginx" /></a>&nbsp;&nbsp;
   <a href="#"><img width="45" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text.png" alt="mysql" /></a>&nbsp;&nbsp;
     <a href="#"><img width="45" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="mongo" />
+
+<br>
 
 
 
@@ -56,9 +62,9 @@
 </h1>
 <h3 align="center">
   <br>
-  주변 100m 이내의 사용자들은 서로의 위치를 공유합니다 <br><br>
-  하트를 송수신 할 수 있으며, 하트가 매칭된 사용자들은 1:1 채팅이 자동으로 생성합니다 <br><br>
-  이모지 변경, 유저 신고 등 부가적인 기능을 제공합니다
+  주변 100m 이내의 사용자들은 서로의 위치를 공유합니다. <br><br>
+  하트를 송수신 할 수 있으며, 하트가 매칭된 사용자들은 1:1 채팅이 자동으로 생성합니다. <br><br>
+  이모지 변경, 유저 신고 등 부가적인 기능을 제공합니다.
 </h3>
 
 <br>
@@ -66,10 +72,10 @@
 ## 💁 Release History
 
 <h3 align="center">
-  22.05.21 - 앱스토어 출시</h3>  <h5  align="center"><br></h5>
+  22.05.21 - 앱스토어 출시</h3>
 
 <h3 align="center">
-  22.05.20 - 플레이스토어 출시</h3>  <h5  align="center"><br></h5>
+  22.05.20 - 플레이스토어 출시</h3>
 
 <h3 align="center">
   22.05.13 - Web 2차 배포</h3>  <h5  align="center">안내 템플릿 <br> 건의함 <br> 위치 엑세스 허용 안내 <br> 이모지 변경 <br></h5>
@@ -77,7 +83,7 @@
   22.05.06 - Web MVP 최초 배포</h3>
  <h5  align="center"> 사용자간 위치 공유 <br> 하트 송수신 <br> 채팅 <br> 유저 신고 <br></h5>
 
-
+<br>
 
 ## 🛠 기술 스택
 
@@ -120,6 +126,8 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="kotlin" width="50px" height="50px" /> | <img src="https://blog.kakaocdn.net/dn/bU8z6O/btqKXLx6c0Y/szaVg2oqCAUxMYex0n8zs1/img.png" alt="android_studio" width="50px" height="50px" /> | <img src="https://images.velog.io/images/gooreum_90/post/c53e169b-71ea-4bf5-84ce-9523949b2dfd/swiftlogo.png" alt="swift" width="50px" height="50px" /> | <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9d/25/cf/9d25cfe3-2476-20ae-ed0f-8d67a188bad7/Xcode-85-220-0-4-2x.png/1200x630bb.png" alt="xcode" width="50px" height="50px" /> |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                           Kotlin                                                                           |                                                                Android Studio                                                                |                                                                         Swift                                                                          |                                                                                              Xcode                                                                                              |
+
+<br>
 
 ## 💞 팀 & 기술
 
@@ -172,7 +180,7 @@
 |  **Ingress Nginx**  |        Kubernetes ingress-nginx        | Nginx, Let's encrypt, Kubernetes ingress-nginx |
 |      **배포**       |                  AWS                   |          EC2(Ubuntu Server 20.04 LTS)          |
 
-
+<br>
 
 # ⚙️ 쿠버네티스, 도커, 젠킨스를 활용한 배포와 CI/CD에 대하여
 
@@ -184,13 +192,13 @@
 
 #### 쿠버네티스 도입 목적
 
-##### - 무중단 배포
+*  무중단 배포
 
-##### - 부하분산
+*  부하분산
 
-##### - 오토힐링
+*  오토힐링
 
-##### - 컨테이너의 관리
+*  컨테이너의 관리
 
 
 
@@ -198,35 +206,37 @@
 
 ![Lovepush_Architecture](README.assets/Lovepush_Architecture.jpg)
 
-##### EC2 서버 4개를 가용자원으로, 마스터 노드 1개와 워커 노드 3개로 구성한다.
+* EC2 서버 4개를 가용자원으로, 마스터 노드 1개와 워커 노드 3개로 구성한다.
 
-##### Mysql, Mongodb로 DB 이원화를 적용한다. (채팅의 Read속도 고려)
+* Mysql, Mongodb로 DB 이원화를 적용한다. (채팅의 Read속도 고려)
 
-##### 해당 DB는 PVC-PV 마운트하여 영구적으로 보관한다.
+* 해당 DB는 PVC-PV 마운트하여 영구적으로 보관한다.
 
-##### Desired State : 백엔드는 팟 10개 / 프론트엔드는  팟 7개로 설정하였다.
-##### EC2서버 4개가 가용자원으로, 마스터 노드 1개와 워커 노드 3개로 구성한다.
+* Desired State : 백엔드는 팟 10개 / 프론트엔드는  팟 7개로 설정하였다.
 
-##### Mysql, Mongodb로 DB 이원화를 적용한다. (채팅의 Read속도 고려)
+* EC2서버 4개가 가용자원으로, 마스터 노드 1개와 워커 노드 3개로 구성한다.
 
-##### 해당 DB는 PVC-PV 마운트하여 영구적으로 보관한다.
+* Mysql, Mongodb로 DB 이원화를 적용한다. (채팅의 Read속도 고려)
 
-##### Desired State : 백엔드는 팟 10개 / 프론트엔드는 팟 7개로 설정하였다.
+* 해당 DB는 PVC-PV 마운트하여 영구적으로 보관한다.
 
-##### Ingress-nginx를 적용하였고, Let's Encrypt를 통해 HTTPS를 적용하였다.
+* Desired State : 백엔드는 팟 10개 / 프론트엔드는 팟 7개로 설정하였다.
 
-##### Jenkins Pipeline을 구축하여, 일련의 과정을 자동화한다.
+* Ingress-nginx를 적용하였고, Let's Encrypt를 통해 HTTPS를 적용하였다.
 
-- Git의 변화를 감지하여 Code를 받아오고,
-- 해당 코드로 Docker Image를 생성한다.
-- 생성된 Docker Image를 Dockerhub에 Push한다.
-- Kube와 연동하여 해당 Deployment를 Rollout한다.
+* Jenkins Pipeline을 구축하여, 일련의 과정을 자동화한다.
 
-##### Mattermost와 연동하여 빌드 현황과 로그를 공유한다.
+  - Git의 변화를 감지하여 Code를 받아오고,
 
+  - 해당 코드로 Docker Image를 생성한다.
 
+  - 생성된 Docker Image를 Dockerhub에 Push한다.
 
+  - Kube와 연동하여 해당 Deployment를 Rollout한다.
 
+* Mattermost와 연동하여 빌드 현황과 로그를 공유한다.
+
+<br>
 
 ## 🪐 구현
 
@@ -1772,7 +1782,7 @@
 
   ![스크린샷 2022-05-03 오후 11.42.01.png](README.assets/continuous.png)
 
-## 부록 1 - Mattermost-Jenkins 로그 추가
+## 9. 팀 내의 빌드 상태 및 로그 확인을 위한 Mattermost-Jenkins 연동
 
 ### Mattermost 설정
 
