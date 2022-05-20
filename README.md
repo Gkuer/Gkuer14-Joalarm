@@ -170,13 +170,13 @@
 </tr>
 </table>
 
-|       Content       |                  Main                  |                     Detail                     |
-| :-----------------: | :------------------------------------: | :--------------------------------------------: |
-|   **kubernetes**    |           Kubernetes 1.14.0            |               Kubernetes 1.14.0                |
-| **파이프라인 구축** |            Jenkins Pipeline            |                Jenkins Pipeline                |
-|      **CI/CD**      | Docker, Jenkins, Dockerhub, Kubernetes | Docker, Jenkins, Dockerhub, Kubernetes Rollout |
-|  **Ingress Nginx**  |        Kubernetes ingress-nginx        | Nginx, Let's encrypt, Kubernetes ingress-nginx |
-|      **배포**       |                  AWS                   |          EC2(Ubuntu Server 20.04 LTS)          |
+|       Content       |            Main             |                     Detail                     |
+| :-----------------: | :-------------------------: | :--------------------------------------------: |
+|   **kubernetes**    |         Kubernetes          |               Kubernetes 1.14.0                |
+| **파이프라인 구축** |           Jenkins           |                Jenkins Pipeline                |
+|      **CI/CD**      | Docker, Jenkins, Kubernetes | Docker, Jenkins, Dockerhub, Kubernetes Rollout |
+|  **Ingress Nginx**  |  Kubernetes Ingress-nginx   | Nginx, Let's encrypt, Kubernetes Ingress-nginx |
+|      **배포**       |             AWS             |          EC2(Ubuntu Server 20.04 LTS)          |
 
 <br>
 
