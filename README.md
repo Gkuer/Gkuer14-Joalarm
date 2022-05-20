@@ -38,7 +38,7 @@
 
 
 
-## 💁 개요
+## 🌈 개요
 
 ### 다운로드 및 실행
 
@@ -69,7 +69,7 @@
 
 <br>
 
-## 💁 Release History
+## 🫧 Release History
 
 <h3 align="center">
   22.05.21 - 앱스토어 출시</h3>
@@ -87,7 +87,7 @@
 
 ## 🛠 기술 스택
 
-### 💎 **Front-end**
+### **Front-end**
 
 | <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50px" height="50px" /> | <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50px" height="50px" /> | <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="TypeScript" width="50px" height="50px" /> |
 | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
@@ -97,31 +97,31 @@
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                               React                                                               |                                          Stomp                                          |                                                                  TypeScript                                                                   |
 
-### 🚀 **Back-end**
+### **Back-end**
 
 | <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" width="50px" height="50px" /> | <img src="https://www.seekpng.com/png/full/8-80775_spring-logo-png-transparent-spring-java.png" alt="Spring-Boot" width="50px" height="50px" /> | <img src="https://spring.io/images/projects/spring-data-79cc203ed8c54191215a60f9e5dc638f.svg" alt="JPA" width="50px" height="50px" /> | <img src="https://spring.io/images/projects/spring-security-b712a4cdb778e72eb28b8c55ec39dbd1.svg" alt="Spring-Security" width="50px" height="50px" /> | <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="50px" height="50px" /> |
 | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 |                                                             Java                                                             |                                                                   Spring-Boot                                                                   |                                                              Spring-JPA                                                               |                                                                    Spring-Security                                                                    |                                        JWT                                         |
 
-### 🚊 DB
+### DB
 
 | <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50px" height="50px" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50px" height="50px" /> |
 | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                             MySQL                                                              |                                                                                            Mongodb                                                                                             |
 
-### 🐬 **DevOps**
+### **DevOps**
 
 | <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="NGiNX" width="50px" height="50px" /> | <img src="https://pbs.twimg.com/profile_images/1351702967561252865/aXfcETIt_400x400.jpg" alt="aws" width="50px" height="50px" /> | <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="docker" width="50px" height="50px" /> | <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="50px" height="50px" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/926px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="50px" height="50px" /> |
 | :-------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                         NGiNX                                                         |                                                               aws                                                                |                                                              docker                                                              |                                                    Jenkins                                                     |                                                                                               Kubernetes                                                                                                |
 
-### 💡 기획 및 운영
+### 기획 및 운영
 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png?20160811101906" alt="Git" width="50px" height="50px" /> | <img src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:b544631f-b225-441b-9e05-57b7fd0d495b/Jira%20Software@2x-icon-blue.png" alt="jira" width="50px" height="50px" /> | <img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" alt="figma" width="50px" height="50px" /> | <img src="https://blog.kakaocdn.net/dn/2CufY/btq8RTsnYaT/3EQm1A8iL54UcCzFkemVJ1/img.png" alt="notion" width="50px" height="50px" /> | <img src="https://play-lh.googleusercontent.com/FERhw8K6nxOmNNthc4zLb6FnkO5_iDs-W4w3Uc_GiHosUYJlkeXHp-Qom5kbq4u__Ns" alt="mattermost" width="50px" height="50px" /> | <img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ=w512" alt="discord" width="50px" height="50px" /> |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                               Git                                                                               |                                                                                             JIRA                                                                                             |                                                       Figma                                                       |                                                               Notion                                                                |                                                                             Mattermost                                                                              |                                                                               Discord                                                                                |
 
-### 📱 App
+### App
 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="kotlin" width="50px" height="50px" /> | <img src="https://blog.kakaocdn.net/dn/bU8z6O/btqKXLx6c0Y/szaVg2oqCAUxMYex0n8zs1/img.png" alt="android_studio" width="50px" height="50px" /> | <img src="https://images.velog.io/images/gooreum_90/post/c53e169b-71ea-4bf5-84ce-9523949b2dfd/swiftlogo.png" alt="swift" width="50px" height="50px" /> | <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9d/25/cf/9d25cfe3-2476-20ae-ed0f-8d67a188bad7/Xcode-85-220-0-4-2x.png/1200x630bb.png" alt="xcode" width="50px" height="50px" /> |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -129,7 +129,7 @@
 
 <br>
 
-## 💞 팀 & 기술
+## 💞 Team & Stack
 
 <table>
 <tr>
@@ -170,8 +170,6 @@
 </tr>
 </table>
 
-#### 🖥️ 주요 Stack
-
 |       Content       |                  Main                  |                     Detail                     |
 | :-----------------: | :------------------------------------: | :--------------------------------------------: |
 |   **kubernetes**    |           Kubernetes 1.14.0            |               Kubernetes 1.14.0                |
@@ -189,6 +187,8 @@
 > 높은 트래픽과 소켓 통신으로 인한 부하를 예상했다. 해당 트래픽과 부하를 Devops가 나 혼자인 우리 팀이 감당하기 위해 쿠버네티스를 도입했다.
 
 > 쿠버네티스 설계부터 CI/CD 적용까지, 처음이라 어려웠고, 자동화까지 완성했을 때는 그만큼 보람을 느꼈다.
+
+
 
 #### 쿠버네티스 도입 목적
 
