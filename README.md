@@ -23,7 +23,7 @@
 <p align="center">
   <b>Supported</b><br/>
   <a href="#"><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" /></a>&nbsp;&nbsp;
-    <a href="#"><img width="45" src="https://w7.pngwing.com/pngs/727/307/png-transparent-java-development-kit-operating-systems-android-macos-android-text-logo-computer-program.png" alt="java" /></a>&nbsp;&nbsp;
+    <a href="#"><img width="45" src="README.assets/java.png" alt="java" /></a>&nbsp;&nbsp;
   <a href="#"><img width="45" src="https://perfectacle.github.io/2017/08/02/Spring-boot-study-001day/thumb.png" alt="springboot" /></a>&nbsp;&nbsp;
   <a href="#"><img width="45" src="https://t1.daumcdn.net/cfile/tistory/991A86475C91BE1D40" alt="jpa" /></a>&nbsp;&nbsp;
   <a href="#"><img width="45" src="https://media.vlpt.us/images/ec532/post/bc893d61-4eaa-4f8f-9b2c-e2d2143506a4/aws_ec2.svg" alt="EC2" /></a>&nbsp;&nbsp;
@@ -31,8 +31,8 @@
     <a href="#"><img width="45" src="https://perfectacle.github.io/2019/04/16/spring-boot-docker-image-optimization/thumb.png" alt="docker" /></a>&nbsp;&nbsp;
     <a href="#"><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" /></a>&nbsp;&nbsp;
     <a href="#"><img width="45" src="https://blog.kakaocdn.net/dn/rrEfB/btq97aMSAsX/lstil1pt0KJW0Iy2WPO0Mk/img.png" alt="nginx" /></a>&nbsp;&nbsp;
-  <a href="#"><img width="45" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text.png" alt="mysql" /></a>&nbsp;&nbsp;
-    <a href="#"><img width="45" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="mongo" />
+  <a href="#"><img width="45" src="README.assets/mysql.png" alt="mysql" /></a>&nbsp;&nbsp;
+    <a href="#"><img width="45" src="README.assets/mongo.png" alt="mongo" />
 
 <br>
 
