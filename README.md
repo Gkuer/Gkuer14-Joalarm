@@ -152,7 +152,7 @@
   </td>
   <td valign="top" width="50%">
     <a href="https://github.com/Gkuer">
-      <img src="README.assets/geonhee.PNG" align="left" style="width: 98%" />
+      <img src="README.assets/geonhee.png" align="left" style="width: 98%" />
     </a>
   </td>
   </tr>
