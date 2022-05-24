@@ -691,8 +691,8 @@
   metadata:
     name: joalarm-s3-secret
   data:
-    aws-access-key: QUtJQVhCNUI0Q09VWDNISDZVRUwK
-    aws-secret-key: WS96NTdNRzZQTWpwSENJdGR6TDg5RklaR1c3a2tLd2s1bGs5R1JHYwo=
+    aws-access-key: {SECRET}
+    aws-secret-key: {SECRET}
   ```
 
   ```yaml
@@ -701,9 +701,7 @@
   metadata:
     name: joalarm-jwt-secret
   data:
-    jwt-secret-key: >-
-      YzJsc2RtVnlibWx1WlMxMFpXTm9MWE53Y21sdVp5MWliMjkwTFdwM2RDMTBkWFJ2Y21saGJDMXpaV055WlhRdGMybHNkbVZ5Ym1sdVpTMTBaV05vTFhOd2NtbHVaeTFpYjI5MExXcDNkQzEwZFhSdmNtbGhiQzF6WldOeVpYUUsK
-  
+    jwt-secret-key: {SECRET}
   ```
 
 ### 도커 이미지 PUSH
@@ -925,7 +923,7 @@
 
   ```bash
   jenkins@jenkins-8455f486bf-rdtt5:/$ cat /var/jenkins_home/secrets/initialAdminPassword
-  0c0bd3e457e84cf7ad384c5fd58eda4c
+  {SECRET}
   ```
 
   - Suggested Plugins 설치
