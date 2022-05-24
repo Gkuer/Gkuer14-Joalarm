@@ -44,7 +44,7 @@
 
 웹 : www.someone-might-like-you.com
 
-안드로이드 : https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo
+안드로이드 : https://play.google.com/store/apps/details?id=com.cupid.joalarm
 
 아이폰 : https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo
 
