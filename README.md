@@ -7,7 +7,7 @@
 <table>
   <tbody>
     <tr>
-      <td><img width="500" src="README.assets/1.gif" alt="메인화면"></td>
+      <td><img width="500" src="README.assets/1.gif" alt="메인화면"></td> 
       <td><img width="500" src="README.assets/2.gif" alt="하트송수신"></td?>
     </tr>
     <tr>
