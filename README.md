@@ -207,14 +207,6 @@
 
 ![Lovepush_Architecture](README.assets/Lovepush_Architecture.jpg)
 
-* EC2 서버 4개를 가용자원으로, 마스터 노드 1개와 워커 노드 3개로 구성한다.
-
-* Mysql, Mongodb로 DB 이원화를 적용한다. (채팅의 Read속도 고려)
-
-* 해당 DB는 PVC-PV 마운트하여 영구적으로 보관한다.
-
-* Desired State : 백엔드는 팟 10개 / 프론트엔드는  팟 7개로 설정하였다.
-
 * EC2서버 4개가 가용자원으로, 마스터 노드 1개와 워커 노드 3개로 구성한다.
 
 * Mysql, Mongodb로 DB 이원화를 적용한다. (채팅의 Read속도 고려)
