@@ -46,7 +46,7 @@
 
 안드로이드 : https://play.google.com/store/apps/details?id=com.cupid.joalarm
 
-아이폰 : https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo
+아이폰 : https://apps.apple.com/kr/app/%EC%A2%8B%EC%95%84%ED%95%98%EB%A9%B4-%EB%88%84%EB%A5%B4%EB%8A%94/id1623974658?l=ko
 
 <br>
 
